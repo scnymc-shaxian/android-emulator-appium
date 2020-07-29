@@ -1,0 +1,4 @@
+# Change history
+	1. add copy nlsbic authorized key to /root/.ssh/ in dockerfile
+	2. add vim installation in dockerfile
+	3. enhancement the startup.sh with options argement
